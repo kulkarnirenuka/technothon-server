@@ -1,2 +1,2 @@
 # technothon-server
-Today is 1st March
+Today is 1st March 2018
